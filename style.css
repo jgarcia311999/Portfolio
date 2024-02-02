@@ -1,5 +1,7 @@
 body {
     background: linear-gradient(to bottom, #000814, #001d49);
+
+    
 }
 
 header {
@@ -45,11 +47,6 @@ h2 {
 
 .btn-outline-warning {
     margin-top: 20px;
-}
-
-.modal-content {
-    background-color: #415a77;
-    color: white;
 }
 
 .modal-title {
